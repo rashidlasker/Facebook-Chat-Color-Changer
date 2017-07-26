@@ -1,6 +1,6 @@
 {
   "name": "fbcolorchange",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Facebook Chat Color Changer",
   "main": "index.js",
   "scripts": {
