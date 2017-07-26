@@ -1,21 +1,22 @@
 {
   "name": "fbcolorchange",
   "version": "1.0.0",
-  "description": "Facebook Chat color changer",
+  "description": "Facebook Chat Color Changer",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rashidlasker/Facebook-Chat-Color-Changer.git"
+    "url": "git+https://github.com/rashidlasker/facebook-chat-color-changer.git"
   },
   "author": "Rashid Lasker",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/rashidlasker/Facebook-Chat-Color-Changer/issues"
+    "url": "https://github.com/rashidlasker/facebook-chat-color-changer/issues"
   },
-  "homepage": "https://github.com/rashidlasker/Facebook-Chat-Color-Changer#readme",
+  "homepage": "https://github.com/rashidlasker/facebook-chat-color-changer#readme",
   "dependencies": {
     "facebook-chat-api": "^1.2.0",
     "prompt": "^1.0.0"

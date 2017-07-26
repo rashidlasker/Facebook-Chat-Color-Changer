@@ -3,7 +3,7 @@ A super easy to use color changer for Facebook's Messenger.
 
 ## Installation
 
-Currently this will work if you have already installed facebook-chat-api and prompt.
+Once you're in the project folder, just `npm start`.
 
 ## Setup
 
